@@ -68,5 +68,5 @@ Each folder in this repository corresponds to a specific project. Inside each fo
 
 To clone this repository, use:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git](https://github.com/HuyThVu2607/All_Embedded_Systems_Projects.git
+[https://github.com/HuyThVu2607/All_Embedded_Systems_Projects.git]
 ****
